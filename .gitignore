@@ -1,0 +1,27 @@
+# ❌ Tokens y credenciales confidenciales
+credentials/credentials.json
+credentials/token.pickle
+*.pem
+*.key
+
+# 🐍 Entornos virtuales y dependencias locales
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🗃️ Archivos temporales o de sistema
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# 📦 Archivos creados por el sistema operativo
+*.log
+*.bak
+*.swp
+
+# 🔧 Archivos de configuración personalizados
+config_local.py
