@@ -6,6 +6,7 @@ def mostrar_menu():
     print("2. Ver eventos próximos")
     print("3. Eliminar un evento")
     print("4. Modificar un evento")
+    print("5. Gestionar tareas personales")
     print("0. Salir")
     return input("Selecciona una opción: ").strip()
 

@@ -11,6 +11,7 @@ from backend.controllers.evento_controller import (
     obtener_eventos_dias,
     eliminar_evento_por_id
 )
+from frontend.desktop.task_ui import gestionar_tareas
 
 def main():
     while True:
@@ -55,6 +56,8 @@ def main():
                     print(f"❌ Error al modificar evento: {mensaje}")
             else:
                 print("❌ Modificación cancelada.")
+        elif opcion == '5':
+            gestionar_tareas()
                 
         elif opcion == '0':
             print("👋 ¡Hasta pronto!")

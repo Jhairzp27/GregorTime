@@ -88,4 +88,6 @@ App desarrollada en Python para gestionar tareas y eventos personales a través 
 **Jhair Zambrano**  
 Gregoliana — 2025  
 
+📚 [Documentación técnica completa](docs/arquitectura.md)
+
 ---

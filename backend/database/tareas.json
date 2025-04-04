@@ -1,0 +1,18 @@
+[
+    {
+        "id": "20250404012747",
+        "nombre": "Tony Dize",
+        "descripcion": "Siente el ritmo sigue letsitandome",
+        "fecha_limite": "2025-04-04",
+        "completada": false,
+        "creada": "2025-04-04T01:27:47.372270"
+    },
+    {
+        "id": "20250404012907",
+        "nombre": "Yandel",
+        "descripcion": "Me quiere retar lo acabo de detectar",
+        "fecha_limite": "2025-04-04",
+        "completada": true,
+        "creada": "2025-04-04T01:29:07.413296"
+    }
+]
