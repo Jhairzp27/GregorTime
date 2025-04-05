@@ -1,0 +1,32 @@
+{
+    "objetivos": [
+        {
+            "id": "objetivo-20250404222647",
+            "nombre": "Guitarra",
+            "descripcion": "Tocar como loco",
+            "fecha_limite": "2025-04-05T01:00:00",
+            "progreso": 0
+        },
+        {
+            "id": "objetivo-20250404222728",
+            "nombre": "Saltar la cuerda",
+            "descripcion": "Adelgazar como un animaloso",
+            "fecha_limite": "2025-05-02T00:00:00",
+            "progreso": 0
+        },
+        {
+            "id": "objetivo-20250405000040",
+            "nombre": "Piano",
+            "descripcion": "Quiero tocar el piano con la lengua",
+            "fecha_limite": "2025-04-05T00:05:00",
+            "progreso": 0
+        }
+    ],
+    "recordatorios": [
+        {
+            "id": "recordatorio-20250405000107",
+            "mensaje": "Sacar el pan",
+            "fecha_hora": "2025-04-05T00:06:07.370272"
+        }
+    ]
+}

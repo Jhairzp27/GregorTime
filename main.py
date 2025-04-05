@@ -12,6 +12,7 @@ from backend.controllers.evento_controller import (
     eliminar_evento_por_id
 )
 from frontend.desktop.task_ui import gestionar_tareas
+from frontend.desktop.asistente_ui import usar_asistente
 
 def main():
     while True:
@@ -58,7 +59,10 @@ def main():
                 print("❌ Modificación cancelada.")
         elif opcion == '5':
             gestionar_tareas()
-                
+        
+        elif opcion == '6':
+            usar_asistente()
+            
         elif opcion == '0':
             print("👋 ¡Hasta pronto!")
             break

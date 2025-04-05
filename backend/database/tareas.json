@@ -14,5 +14,13 @@
         "fecha_limite": "2025-04-04",
         "completada": true,
         "creada": "2025-04-04T01:29:07.413296"
+    },
+    {
+        "id": "20250404150547",
+        "nombre": "Leer",
+        "descripcion": "Lee un poquitos",
+        "fecha_limite": "2025-04-04",
+        "completada": false,
+        "creada": "2025-04-04T15:05:47.395985"
     }
 ]
